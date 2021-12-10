@@ -10,7 +10,7 @@ Run these commands to install the needed packages:
 * pip3 install keras
 * pip3 install pygame
 * pip3 install matplotlib
-* pip3 install pickle
+* pip3 install pickle5
 
 I recommmend using VSCode with the Jupyter Notebook extension for the lab, but you can install Jupyter Notebook and run it in the browser if you want.
 
