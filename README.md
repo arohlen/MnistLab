@@ -7,6 +7,8 @@ Install the latest Python 3 version.
 
 Run these commands to install the needed packages:
 
+* pip3 install numpy
+* pip3 install tensorflow
 * pip3 install keras
 * pip3 install pygame
 * pip3 install matplotlib
